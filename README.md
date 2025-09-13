@@ -101,4 +101,4 @@ Expanding to include customer demographics and financing analysis.
 
 👉 This project shows how Power BI can transform car sales data into actionable insights for the automobile industry. It’s a strong demonstration of using data analytics for revenue tracking, sales optimization, and strategic planning.
 
-Example :
+Example :https://github.com/krushnashirsath07/Car-Sales-Dashboard/blob/main/Dashboard%201.png
